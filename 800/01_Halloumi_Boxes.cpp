@@ -1,4 +1,8 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <climits> // for LLONG_MIN
+
 using namespace std;
 
 int main()
